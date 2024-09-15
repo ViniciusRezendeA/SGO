@@ -36,3 +36,8 @@ Para que possa ser disponibilizado para os torcedores e para o COI os ganhadores
 ### Diagrama de Implantação
 <img width="100%" height="500px" src="./imagens/diagrama-de-implantacao.svg"/>
 
+### Diagrama de Componentes
+![Diagrama de Componentes](imagens/diagrama-de-componentes.svg)
+
+### Diagrama de Classes
+![Diagrama de Classes](imagens/diagrama-de-classes.svg)
